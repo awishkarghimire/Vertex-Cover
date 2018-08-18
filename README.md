@@ -1,2 +1,2 @@
-# Advanced-Algorithms
-Here I implement some fairly complicated algorithms.
+# Vertex-Cover
+Here, I have implemented the SD Algorithm for approximate vertex cover.
